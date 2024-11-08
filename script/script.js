@@ -30,7 +30,7 @@ function calcolaPrezzo() {
         Carrozza: ${carrozza}<br>
         Codice CP: ${codiceCP}<br>
     `;
-}
+} 
 
 function resetForm() {
     document.getElementById('nome').value = '';
